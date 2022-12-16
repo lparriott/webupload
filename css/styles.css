@@ -27,6 +27,9 @@ body {
     background-color: white;
 }
 
+.test {
+	background-color: blue;
+}
 
 header {
     width: 910px;	/* reduced by 20px to accommodate shadow */
